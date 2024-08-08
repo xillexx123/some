@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://pub-22e1339258984eaea9db08c194835d7b.r2.dev/Aov.ipa</string>
+					<string>https://pub-22e1339258984eaea9db08c194835d7b.r2.dev/Aov1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -25,9 +25,9 @@
 			<key>metadata</key>
 			<dict>
 			<key>bundle-identifier</key>
-				<string>com.garena.game.kgvn0</string>
+				<string>com.garena.game.k</string>
 				<key>bundle-version</key>
-				<string>1.55.11198192</string>
+				<string>1.55.11193732</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
