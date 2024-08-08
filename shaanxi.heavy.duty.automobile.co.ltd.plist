@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://pub-22e1339258984eaea9db08c194835d7b.r2.dev/Aov.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://play-lh.googleusercontent.com/9HgbyVHLtzWzYX1cL9yjxXgkTtBpcaWsztJgdVU0QHnoNLxEwHIYnMlWdjLdN2y6oD8</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+			<key>bundle-identifier</key>
+				<string>com.garena.game.kgvn0</string>
+				<key>bundle-version</key>
+				<string>1.55.11198192</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Aovcheat-anhvu99er</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
